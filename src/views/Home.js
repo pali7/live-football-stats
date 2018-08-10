@@ -9,6 +9,7 @@ export default class Home extends Component{
                     <ul>
                         <li><a href="">Login</a></li>
                         <li><a href="">Sign Up</a></li>
+                        {/* test */}
                     </ul>
                 </div>
             </div>
